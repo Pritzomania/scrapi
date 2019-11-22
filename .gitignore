@@ -1,0 +1,4 @@
+.DS_Store
+backend/node_modules/
+backend/generated/db.json
+frontend/node_modules/
